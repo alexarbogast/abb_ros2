@@ -1,16 +1,16 @@
 repositories:
   abb_libegm:
     type: git
-    url: https://github.com/ros-industrial/abb_libegm.git
-    version: master
+    url: https://github.com/alexarbogast/abb_libegm.git
+    version: logical_axes_values
   abb_librws:
     type: git
     url: https://github.com/ros-industrial/abb_librws.git
     version: master
   abb_egm_rws_managers:
     type: git
-    url: https://github.com/ros-industrial/abb_egm_rws_managers.git
-    version: master
+    url: https://github.com/alexarbogast/abb_egm_rws_managers.git
+    version: logical_axes_values
   abb_ros2_msgs:
     type: git
     url: https://github.com/gbartyzel/abb_ros2_msgs.git
